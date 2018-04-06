@@ -12,3 +12,4 @@ My Cordeforces [profile](http://codeforces.com/profile/xteNz).
   - [Educational Codeforces Round 39](http://codeforces.com/contest/946) (#946 prefix)
   - [Codeforces Round #469 (Div. 2)](http://codeforces.com/contest/950) (#950 prefix)
   - [Codeforces Round #470 (Div. 2)](http://codeforces.com/contest/948) (#948 prefix)
+  - [Educational Codeforces Round 41](http://codeforces.com/contest/961) (#961 prefix)
