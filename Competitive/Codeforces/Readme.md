@@ -9,6 +9,31 @@
 
 ## 946A
 [[Description](http://codeforces.com/problemset/problem/946/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/946A.cpp)]
+
+The answer for this problem can be calculated by a formula ![formula](https://imgur.com/erY5vfq.png) where ![formula](https://imgur.com/g4F8b1K.png) is the absolute value of ![formula](https://imgur.com/Nnvy1lZ.png). 
+```Cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin >> n;
+
+    int temp;
+    int sum = 0;
+
+    for (int i = 0; i < n; i++) {
+        cin >> temp;
+        sum += abs(temp);
+    }
+
+    cout << sum;
+
+    return 0;
+}
+```
+
 ## 946C
 [[Description](http://codeforces.com/problemset/problem/946/C)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/946C.cpp)]
 ## 950A
