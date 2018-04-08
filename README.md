@@ -9,7 +9,3 @@ My Cordeforces [profile](http://codeforces.com/profile/xteNz).
 - [Yandex.Algorithm 2018](https://github.com/xtenzQ/CppLearning/tree/master/Competitive/YandexAlgorithm2018)
 - [VKCup 2018](https://github.com/xtenzQ/CppPracticing/tree/master/Competitive/VKCup2018)
 - [Codeforces Rounds](https://github.com/xtenzQ/CppLearning/tree/master/Competitive/Codeforces)
-  - [Educational Codeforces Round 39](http://codeforces.com/contest/946) (#946 prefix)
-  - [Codeforces Round #469 (Div. 2)](http://codeforces.com/contest/950) (#950 prefix)
-  - [Codeforces Round #470 (Div. 2)](http://codeforces.com/contest/948) (#948 prefix)
-  - [Educational Codeforces Round 41](http://codeforces.com/contest/961) (#961 prefix)
