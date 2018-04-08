@@ -1,13 +1,20 @@
-# Problemset
+# Codeforces Rounds
 
-- [946A](#946a)
-- [946C](#946c)
-- [950A](#950a)
-- [950B](#950b)
-- [948A](#948a)
-- [961A](#961a)
+## Problemset
+- [Educational Codeforces Round 39](#educational-codeforces-round-39)
+    - [946A](#946a)
+    - [946C](#946c)
+- [Codeforces Round #469](#codeforces-round-469)
+    - [950A](#950a)
+    - [950B](#950b)
+- [Codeforces Round #470](#codeforces-round-470)
+    - [948A](#948a)
+- [Educational Codeforces Round 41](#educational-codeforces-round-41)
+    - [961A](#961a)
 
-## 946A
+## Educational Codeforces Round 39
+
+### 946A
 [[Task](http://codeforces.com/problemset/problem/946/A)]
 
 The answer for this problem can be calculated by a formula ![formula](https://imgur.com/erY5vfq.png) where ![formula](https://imgur.com/g4F8b1K.png) is the absolute value of ![formula](https://imgur.com/Nnvy1lZ.png). 
@@ -34,7 +41,7 @@ int main()
 }
 ```
 
-## 946C
+### 946C
 [[Task](http://codeforces.com/problemset/problem/946/C)]
 
 The solution is to find the string of 26 consecutive characters (the string will always start with the character 'a') considering a fact that the code of each i-th element will be less and equal to i + 1 element.
@@ -70,11 +77,16 @@ int main()
 }
 ```
 
-## 950A
+## Codeforces Round 469
+### 950A
 [[Task](http://codeforces.com/problemset/problem/950/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/950A.cpp)]
 ## 950B
 [[Task](http://codeforces.com/problemset/problem/950/B)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/950C.cpp)]
-## 948A
+
+## Codeforces Round 470
+### 948A
 [[Task](http://codeforces.com/problemset/problem/948/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/948A.cpp)]
-## 961A
+
+## Educational Codeforces Round 41
+### 961A
 [[Task](http://codeforces.com/problemset/problem/961/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/961A.cpp)]
