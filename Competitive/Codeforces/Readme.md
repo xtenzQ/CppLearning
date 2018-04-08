@@ -8,7 +8,7 @@
 - [961A](#961a)
 
 ## 946A
-[[Description](http://codeforces.com/problemset/problem/946/A)](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/946A.cpp)]
+[[Task](http://codeforces.com/problemset/problem/946/A)]
 
 The answer for this problem can be calculated by a formula ![formula](https://imgur.com/erY5vfq.png) where ![formula](https://imgur.com/g4F8b1K.png) is the absolute value of ![formula](https://imgur.com/Nnvy1lZ.png). 
 ```Cpp
@@ -35,7 +35,7 @@ int main()
 ```
 
 ## 946C
-[[Description](http://codeforces.com/problemset/problem/946/C)](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/946C.cpp)]
+[[Task](http://codeforces.com/problemset/problem/946/C)]
 
 The solution is to find the string of 26 consecutive characters (the string will always start with the character 'a') considering a fact that the code of each i-th element will be less and equal to i + 1 element.
 
@@ -71,10 +71,10 @@ int main()
 ```
 
 ## 950A
-[[Description](http://codeforces.com/problemset/problem/950/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/950A.cpp)]
+[[Task](http://codeforces.com/problemset/problem/950/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/950A.cpp)]
 ## 950B
-[[Description](http://codeforces.com/problemset/problem/950/B)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/950C.cpp)]
+[[Task](http://codeforces.com/problemset/problem/950/B)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/950C.cpp)]
 ## 948A
-[[Description](http://codeforces.com/problemset/problem/948/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/948A.cpp)]
+[[Task](http://codeforces.com/problemset/problem/948/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/948A.cpp)]
 ## 961A
-[[Description](http://codeforces.com/problemset/problem/961/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/961A.cpp)]
+[[Task](http://codeforces.com/problemset/problem/961/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/961A.cpp)]
