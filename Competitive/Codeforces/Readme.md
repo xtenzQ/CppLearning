@@ -79,7 +79,39 @@ int main()
 
 ## Codeforces Round 469
 ### 950A
-[[Task](http://codeforces.com/problemset/problem/950/A)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/950A.cpp)]
+[[Task](http://codeforces.com/problemset/problem/950/A)]
+
+```Cpp
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int l, r, a;
+    int mn,mx;
+    int del;
+    int temp;
+    cin >> l >> r >> a;
+    mn = min(l ,r);
+    mx = max(l, r);
+    temp = mn;
+    while (a > 0) {
+        mn = min(mn, mx);
+        mx = max(temp, mx);
+        del = a / 2;
+        if (a == 1) {
+            del = 1;
+        }
+        mn += del;
+        temp = mn;
+        a = a - del;
+    }
+    mn = min(mn, mx);
+    cout << mn * 2;
+    return 0;
+}
+```
 ## 950B
 [[Task](http://codeforces.com/problemset/problem/950/B)] | [[Code](https://github.com/xtenzQ/CppLearning/blob/master/Competitive/Codeforces/950C.cpp)]
 
